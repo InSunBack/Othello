@@ -1,0 +1,3 @@
+/mnt/c/Users/Xeha/CLionProjects/Board/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Xeha/CLionProjects/Board/cmake-build-debug/CMakeFiles/Othello.h.dir
+/mnt/c/Users/Xeha/CLionProjects/Board/cmake-build-debug/CMakeFiles/edit_cache.dir

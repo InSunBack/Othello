@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Othello.h.dir/Othello.cpp.o CMakeFiles/Othello.h.dir/main.cpp.o  -o Othello.h 

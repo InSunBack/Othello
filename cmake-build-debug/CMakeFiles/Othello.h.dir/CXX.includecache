@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Xeha/CLionProjects/Board/Othello.cpp
+Othello.h
+/mnt/c/Users/Xeha/CLionProjects/Board/Othello.h
+list
+-
+
+/mnt/c/Users/Xeha/CLionProjects/Board/Othello.h
+iostream
+-
+
+/mnt/c/Users/Xeha/CLionProjects/Board/main.cpp
+iostream
+-
+Othello.h
+/mnt/c/Users/Xeha/CLionProjects/Board/Othello.h
+
